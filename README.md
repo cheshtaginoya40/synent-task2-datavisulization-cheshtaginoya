@@ -1,6 +1,6 @@
 # Iris Data Visualization
 
-## 📌 Objective
+## Objective
 This project focuses on visualizing and analyzing the Iris dataset using Python libraries like Pandas, Matplotlib, and Seaborn.
 
 ## Dataset
